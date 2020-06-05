@@ -14,5 +14,5 @@ public:
         
     }
 };
-//The idea is based on oposite directional two pointer approach.
+//The idea is based on opposite directional two pointer approach.
 //Time Complexity O(N) with O(1) extra space
